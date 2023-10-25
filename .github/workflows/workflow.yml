@@ -38,4 +38,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.MALDEREP }}/rep1:1.0.1
+          tags: ${{ secrets.MALDEREP }}/rep1:1.0.0
