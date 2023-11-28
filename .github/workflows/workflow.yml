@@ -38,4 +38,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.MALDE_USERNAME }}/rep1:1.0.0
+          tags: ${{ secrets.MALDE_USERNAME }}/rep2:1.0.0
